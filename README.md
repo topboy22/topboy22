@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @topboy22
+- 👋 Hi, I’m Folarin 
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning to be a GIS Programmer
 - 💞️ I’m looking to collaborate on machine learning projects
 -  reach me on  geezyfella@gmail.com
 
